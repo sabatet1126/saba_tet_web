@@ -102,8 +102,8 @@ section{
 
 section h2{
 	font-family: 'Pacifico', cursive;
-	width: 60%;
-	margin: 0 auto 40px;
+	width: 100%;
+	margin: 0 auto;
 	font-size: 50x;
 	font-weight:normal;
 	font: normal normal normal 25px/50px VDL-GigaG;
@@ -111,11 +111,12 @@ section h2{
 	background: url(../images/borderBlack.png) repeat-x 0 50%;
 	background-size: 1px 1px;
 	flex-wrap: nowrap;
+	
 }
 
 section h2 span {
 	background: #fff;
-	padding: 0 80px;
+	padding: 0 20px;
 	display: inline-block;
 }
 
