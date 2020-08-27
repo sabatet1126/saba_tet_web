@@ -104,12 +104,13 @@ section h2{
 	font-family: 'Pacifico', cursive;
 	width: 60%;
 	margin: 0 auto 40px;
-	font-size: 80x;
+	font-size: 50x;
 	font-weight:normal;
-	font: normal normal normal 25px/60px VDL-GigaG;
+	font: normal normal normal 25px/50px VDL-GigaG;
 	text-align: center;
 	background: url(../images/borderBlack.png) repeat-x 0 50%;
 	background-size: 1px 1px;
+	flex-wrap: nowrap;
 }
 
 section h2 span {
