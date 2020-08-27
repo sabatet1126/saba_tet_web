@@ -116,6 +116,7 @@ section h2{
 section h2 span {
 	background: #fff;
 	padding: 0 80px;
+	display: inline-block;
 }
 
 .inner{
